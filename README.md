@@ -5,7 +5,6 @@ This project focuses on analyzing retail sales data by using SQL queries for dat
 
 ## Tools Used
 - **MS SQL Server** – For data storage, management, and querying.
-- **SQL** – For data analysis and answering business questions.
 
 ## Project Workflow
 
